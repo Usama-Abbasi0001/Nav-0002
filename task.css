@@ -1,0 +1,70 @@
+body{
+    background-color: #eee;
+}
+.container{
+    border: 3px solid rgba(0, 0, 0, 0.502);
+    width: 80%;
+    padding: 10px;
+    margin: 50px;
+    align-items: center;
+    height: 3vh;
+    background: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    box-shadow: 7px 10px 10px rgba(36, 33, 33, 0.582);
+}
+.item1{
+    padding: 10px;
+    color: bisque;
+    margin: 10px;
+}
+.item2{
+    display: flex;
+    flex-direction: row;
+    color: bisque;
+}
+.item2 >.subitem{
+    color: bisque;
+    margin: 5px;
+    padding: 5px;
+
+}
+.item3{
+    padding: 10px;
+    margin: 10px;
+}
+.btn{
+    background: lightskyblue;
+    padding: 6px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    font-size: 16px;
+}
+.coll{
+    border: 3px solid rgba(0, 0, 0, 0.502);
+    width: 80%;
+    padding: 10px;
+    margin: 50px;
+    align-items: center;
+    height: 3vh;
+    background: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    box-shadow: 7px 10px 10px rgba(36, 33, 33, 0.582);
+}
+.super{
+    border: 3px solid rgba(0, 0, 0, 0.502);
+    width: 80%;
+    padding: 10px;
+    margin: 50px;
+    align-items: center;
+    height: 3vh;
+    background: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    box-shadow: 7px 10px 10px rgba(36, 33, 33, 0.582);
+}
